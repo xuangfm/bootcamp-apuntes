@@ -9,8 +9,7 @@
 
 ### Tarde
 - Git y GitHub: instalación y configuración
-- Primeros comandos: clone, status, add, commit, push, y otras utilidades
-
+- Primeros comandos: clone, status, add, commit, push, stash
 ## 💡 Lo que he aprendido
 
 Apredimos a subir repositorios, verlos en la web, y otras disciplinas
@@ -23,3 +22,4 @@ como recursos útiles estoy utilizando diferentes páginas que voy encontrando e
 ---
 
 **Siguiente paso:** Empezar SAT-01 Atlas
+
